@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1745992037 source:c:\users\manu\poo\queenattack\main.cpp
+	<iostream>
+	"Game.h"
+
+1745992139 c:\users\manu\poo\queenattack\include\game.h
+	<string>
+
+1745992201 source:c:\users\manu\poo\queenattack\src\game.cpp
+	"Game.h"
+	<iostream>
+	<cctype>
+	<cstdlib>
+
